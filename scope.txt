@@ -1,0 +1,14 @@
+BTC-USD / Bitcoin
+BAT-USD / Basic Attention Token
+DOT-USD / Polkadot
+AAPL / Apple Inc.
+AMZN / Amazon
+BABA / Alibaba Group Holding Ltd
+BRK-A / Berkshire Hataway Inc.
+DIS / Walt Disney Company
+EA / Electronic Arts
+GOOGL / Alphabet Inc. (GOOGL)
+MSFT / Microsoft Corp.
+NVDA / NVIDIA Corp
+PAM / Pampa Energía S.A.
+PYPL / Paypal Holdings
